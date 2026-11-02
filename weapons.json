@@ -2,9 +2,11 @@
   "updated": "2026-11-02",
   "sources": [
     "https://mecharena.wiki.gg/wiki/Weapons",
-    "https://company.plarium.com/en/articles/mech-arena-launches-new-season-hunting-drive/"
+    "https://mech-arena-robot-showdown.fandom.com/wiki/Weapons",
+    "https://forum.plarium.com/mech-arena/854_news/43755_release-notes-3-460/",
+    "https://forum.plarium.com/mech-arena/854_news/43707_release-notes-3-440/"
   ],
-  "coverage": "Weapon families, not every energy variant; verify in-game",
+  "coverage": "58 named weapon families from community lists and official announcements; not all individual energy variants; stats unverified.",
   "weapons": [
     {
       "name": "Autocannon",
@@ -303,6 +305,59 @@
     {
       "name": "Suppressor",
       "type": "Heavy Duty",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Continuum",
+      "type": "Unverified category",
+      "variants": [],
+      "verifiedVariants": false,
+      "notes": "Community roster lists weapon; category pending confirmation"
+    },
+    {
+      "name": "Berserker",
+      "type": "Unverified category",
+      "variants": [],
+      "verifiedVariants": false,
+      "notes": "Community roster lists weapon; category pending confirmation"
+    },
+    {
+      "name": "Reaver",
+      "type": "Unverified category",
+      "variants": [],
+      "verifiedVariants": false,
+      "notes": "Community roster lists weapon; category pending confirmation"
+    },
+    {
+      "name": "Quasher",
+      "type": "Unverified category",
+      "variants": [],
+      "verifiedVariants": false,
+      "notes": "Community roster lists weapon; category pending confirmation"
+    },
+    {
+      "name": "Burrow Beam",
+      "type": "Unverified category",
+      "variants": [],
+      "verifiedVariants": false,
+      "notes": "Community roster lists weapon; category pending confirmation"
+    },
+    {
+      "name": "Charge Rocket",
+      "type": "Missile",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Versa",
+      "type": "Heavy Duty",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Bouncecritter",
+      "type": "Barrage",
       "variants": [],
       "verifiedVariants": false
     }

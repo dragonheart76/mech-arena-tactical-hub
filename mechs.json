@@ -1,7 +1,7 @@
 {
   "updated": "2026-11-02",
   "source": "https://mecharena-support.plarium.com/hc/en-us/articles/12538459799196-General-info-about-Mechs; https://play.google.com/store/apps/details?id=com.plarium.mechlegion",
-  "coverage": "Expanded community roster with Voidghost confirmed from official game listing; energy stats require in-game verification",
+  "coverage": "48 named mech entries from community rosters and official announcements; not a guaranteed exhaustive live-game roster; energy capacities unverified.",
   "mechs": [
     {
       "name": "Paragon",
@@ -279,7 +279,30 @@
       "rarity": "Legendary",
       "ability": "Glitched Out",
       "energyCapacity": null,
-      "verifiedEnergy": false
+      "verifiedEnergy": false,
+      "notes": "Weapon mechanics subject to announced balance changes"
+    },
+    {
+      "name": "Biform",
+      "role": "Unverified role",
+      "rarity": "Legendary",
+      "energyCapacity": null,
+      "verifiedEnergy": false,
+      "notes": "Official September 2026 release; role pending independent verification"
+    },
+    {
+      "name": "Tailsting",
+      "role": "Attacker",
+      "rarity": "Legendary",
+      "energyCapacity": null,
+      "verifiedEnergy": false,
+      "notes": "Official release notes 3.440"
     }
+  ],
+  "sources": [
+    "https://mecharena.wiki.gg/wiki/Mechs",
+    "https://forum.plarium.com/mech-arena/854_news/43800_mech-arena-roundup/4/",
+    "https://forum.plarium.com/mech-arena/854_news/43707_release-notes-3-440/",
+    "https://rutube.ru/video/a436ea2e634b40f683ec4d7be12aeac5/"
   ]
 }
