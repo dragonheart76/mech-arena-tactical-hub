@@ -1,0 +1,27 @@
+name: Check Mech Arena promo code candidates
+on:
+  schedule:
+    - cron: '17 10 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+  pull-requests: write
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check public moderator thread
+        run: python scripts/check_promo_codes.py
+      - name: Create review pull request if candidates changed
+        uses: peter-evans/create-pull-request@v7
+        with:
+          commit-message: 'chore: discover promo code candidates'
+          branch: bot/promo-code-candidates
+          delete-branch: true
+          title: 'Review newly discovered Mech Arena promo code candidates'
+          body: 'These codes were extracted from a public forum thread. **They are not verified active.** Review each code, account eligibility, reward and expiry before manually adding to promo-codes.json.'
+          add-paths: promo-candidates.json
