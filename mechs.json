@@ -1,0 +1,277 @@
+{
+  "updated": "2026-11-02",
+  "source": "https://mecharena.wiki.gg/wiki/Mechs",
+  "coverage": "Community roster plus official Citadel; verify changes in-game",
+  "mechs": [
+    {
+      "name": "Paragon",
+      "role": "Attacker",
+      "energyCapacity": null,
+      "verifiedEnergy": false
+    },
+    {
+      "name": "Puma",
+      "role": "Attacker",
+      "energyCapacity": null,
+      "verifiedEnergy": false
+    },
+    {
+      "name": "Guardian",
+      "role": "Attacker",
+      "energyCapacity": null,
+      "verifiedEnergy": false
+    },
+    {
+      "name": "Stalker",
+      "role": "Attacker",
+      "energyCapacity": null,
+      "verifiedEnergy": false
+    },
+    {
+      "name": "Panther",
+      "role": "Attacker",
+      "energyCapacity": null,
+      "verifiedEnergy": false
+    },
+    {
+      "name": "Redox",
+      "role": "Attacker",
+      "energyCapacity": null,
+      "verifiedEnergy": false
+    },
+    {
+      "name": "Scorpius",
+      "role": "Attacker",
+      "energyCapacity": null,
+      "verifiedEnergy": false
+    },
+    {
+      "name": "Onyx",
+      "role": "Attacker",
+      "energyCapacity": null,
+      "verifiedEnergy": false
+    },
+    {
+      "name": "Gatecrasher",
+      "role": "Attacker",
+      "energyCapacity": null,
+      "verifiedEnergy": false
+    },
+    {
+      "name": "Outlaw",
+      "role": "Attacker",
+      "energyCapacity": null,
+      "verifiedEnergy": false
+    },
+    {
+      "name": "Seeker",
+      "role": "Attacker",
+      "energyCapacity": null,
+      "verifiedEnergy": false
+    },
+    {
+      "name": "Dreadnought",
+      "role": "Attacker",
+      "energyCapacity": null,
+      "verifiedEnergy": false
+    },
+    {
+      "name": "Volti",
+      "role": "Attacker",
+      "energyCapacity": null,
+      "verifiedEnergy": false
+    },
+    {
+      "name": "Silverthorn",
+      "role": "Attacker",
+      "energyCapacity": null,
+      "verifiedEnergy": false
+    },
+    {
+      "name": "Lancer",
+      "role": "Scout",
+      "energyCapacity": null,
+      "verifiedEnergy": false
+    },
+    {
+      "name": "Slingshot",
+      "role": "Scout",
+      "energyCapacity": null,
+      "verifiedEnergy": false
+    },
+    {
+      "name": "Shadow",
+      "role": "Scout",
+      "energyCapacity": null,
+      "verifiedEnergy": false
+    },
+    {
+      "name": "Tengu",
+      "role": "Scout",
+      "energyCapacity": null,
+      "verifiedEnergy": false
+    },
+    {
+      "name": "Killshot",
+      "role": "Scout",
+      "energyCapacity": null,
+      "verifiedEnergy": false
+    },
+    {
+      "name": "Redeemer",
+      "role": "Scout",
+      "energyCapacity": null,
+      "verifiedEnergy": false
+    },
+    {
+      "name": "Surge",
+      "role": "Scout",
+      "energyCapacity": null,
+      "verifiedEnergy": false
+    },
+    {
+      "name": "Eclipse",
+      "role": "Scout",
+      "energyCapacity": null,
+      "verifiedEnergy": false
+    },
+    {
+      "name": "Nomad",
+      "role": "Scout",
+      "energyCapacity": null,
+      "verifiedEnergy": false
+    },
+    {
+      "name": "Lacewing",
+      "role": "Scout",
+      "energyCapacity": null,
+      "verifiedEnergy": false
+    },
+    {
+      "name": "Mimicker",
+      "role": "Scout",
+      "energyCapacity": null,
+      "verifiedEnergy": false
+    },
+    {
+      "name": "Blizzfrost",
+      "role": "Scout",
+      "energyCapacity": null,
+      "verifiedEnergy": false
+    },
+    {
+      "name": "Juggernaut",
+      "role": "Tank",
+      "energyCapacity": null,
+      "verifiedEnergy": false
+    },
+    {
+      "name": "Ares",
+      "role": "Tank",
+      "energyCapacity": null,
+      "verifiedEnergy": false
+    },
+    {
+      "name": "Sentinel",
+      "role": "Tank",
+      "energyCapacity": null,
+      "verifiedEnergy": false
+    },
+    {
+      "name": "Aegis",
+      "role": "Tank",
+      "energyCapacity": null,
+      "verifiedEnergy": false
+    },
+    {
+      "name": "Bastion",
+      "role": "Tank",
+      "energyCapacity": null,
+      "verifiedEnergy": false
+    },
+    {
+      "name": "Vortex",
+      "role": "Tank",
+      "energyCapacity": null,
+      "verifiedEnergy": false
+    },
+    {
+      "name": "Deathwalker",
+      "role": "Tank",
+      "energyCapacity": null,
+      "verifiedEnergy": false
+    },
+    {
+      "name": "Blockhorn",
+      "role": "Tank",
+      "energyCapacity": null,
+      "verifiedEnergy": false
+    },
+    {
+      "name": "Parasite",
+      "role": "Tank",
+      "energyCapacity": null,
+      "verifiedEnergy": false
+    },
+    {
+      "name": "Citadel",
+      "role": "Tank",
+      "energyCapacity": null,
+      "verifiedEnergy": false
+    },
+    {
+      "name": "M.D",
+      "role": "Support",
+      "energyCapacity": null,
+      "verifiedEnergy": false
+    },
+    {
+      "name": "Arachnos",
+      "role": "Support",
+      "energyCapacity": null,
+      "verifiedEnergy": false
+    },
+    {
+      "name": "Orion",
+      "role": "Support",
+      "energyCapacity": null,
+      "verifiedEnergy": false
+    },
+    {
+      "name": "Zephyr",
+      "role": "Support",
+      "energyCapacity": null,
+      "verifiedEnergy": false
+    },
+    {
+      "name": "Cheetah",
+      "role": "Support",
+      "energyCapacity": null,
+      "verifiedEnergy": false
+    },
+    {
+      "name": "Brickhouse",
+      "role": "Support",
+      "energyCapacity": null,
+      "verifiedEnergy": false
+    },
+    {
+      "name": "Hemlock",
+      "role": "Support",
+      "energyCapacity": null,
+      "verifiedEnergy": false
+    },
+    {
+      "name": "Solis",
+      "role": "Support",
+      "energyCapacity": null,
+      "verifiedEnergy": false
+    },
+    {
+      "name": "Salvor",
+      "role": "Support",
+      "energyCapacity": null,
+      "verifiedEnergy": false
+    }
+  ]
+}

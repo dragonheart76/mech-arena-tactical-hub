@@ -1,0 +1,310 @@
+{
+  "updated": "2026-11-02",
+  "sources": [
+    "https://mecharena.wiki.gg/wiki/Weapons",
+    "https://company.plarium.com/en/articles/mech-arena-launches-new-season-hunting-drive/"
+  ],
+  "coverage": "Weapon families, not every energy variant; verify in-game",
+  "weapons": [
+    {
+      "name": "Autocannon",
+      "type": "Assault",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Plasma Cannon",
+      "type": "Assault",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Pulse Cannon",
+      "type": "Assault",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Fusion Cannon",
+      "type": "Assault",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Carbine",
+      "type": "Assault",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Viper",
+      "type": "Assault",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Overdriver",
+      "type": "Assault",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Oracle",
+      "type": "Assault",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "RPG",
+      "type": "Missile",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Missile Rack",
+      "type": "Missile",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Voltaic RPG",
+      "type": "Missile",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Disruptor",
+      "type": "Missile",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Storm Rack",
+      "type": "Missile",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Blast RPG",
+      "type": "Missile",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Hornet",
+      "type": "Missile",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Thermal Lance",
+      "type": "Beam",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Stasis Beam",
+      "type": "Beam",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Particle Beam",
+      "type": "Beam",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Graviton Beam",
+      "type": "Beam",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Compound Beam",
+      "type": "Beam",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Shotgun",
+      "type": "Close Quarters",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Fragment Gun",
+      "type": "Close Quarters",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Ember Gun",
+      "type": "Close Quarters",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Quantum Gun",
+      "type": "Close Quarters",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Repeater",
+      "type": "Close Quarters",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Howler",
+      "type": "Close Quarters",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Revoker",
+      "type": "Close Quarters",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Arc Torrent",
+      "type": "Close Quarters",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Longarm",
+      "type": "Sniper",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Gauss Rifle",
+      "type": "Sniper",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Railgun",
+      "type": "Sniper",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "EM Rifle",
+      "type": "Sniper",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Tetra Rifle",
+      "type": "Sniper",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Javelin Rack",
+      "type": "Guided",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Helix Rack",
+      "type": "Guided",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Cryo Javelin",
+      "type": "Guided",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Disc Launcher",
+      "type": "Guided",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Savant",
+      "type": "Guided",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Strike Rocket",
+      "type": "Guided",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Gemini",
+      "type": "Guided",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Rocket Mortar",
+      "type": "Artillery",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Fuse Mortar",
+      "type": "Artillery",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Nade Launcher",
+      "type": "Barrage",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Cryo Launcher",
+      "type": "Barrage",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Pod Gun",
+      "type": "Barrage",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Minigun",
+      "type": "Heavy Duty",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Chain Gun",
+      "type": "Heavy Duty",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Hellfire",
+      "type": "Heavy Duty",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Dreadshot",
+      "type": "Heavy Duty",
+      "variants": [],
+      "verifiedVariants": false
+    },
+    {
+      "name": "Suppressor",
+      "type": "Heavy Duty",
+      "variants": [],
+      "verifiedVariants": false
+    }
+  ]
+}
