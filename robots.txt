@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mech-arena-tactical-hub.pages.dev/sitemap.xml
