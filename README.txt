@@ -1,22 +1,24 @@
-MECH ARENA SMART OPTIMIZER V4 — NOV 2026
+MECH ARENA TACTICAL HUB — MAINTENANCE + PROMO CODE MONITOR
 
-Upload these files to the SAME GitHub repository folder as index.html:
-- hangar-showdown.html (replaces previous version)
-- hangar-optimizer.js (NEW, REQUIRED)
-- mechs.json (existing 48-mech catalog)
-- weapons.json (existing 58 weapon-family catalog)
-- equipment-database.html, app.js, style.css (included for convenience; unchanged)
+Upload the CONTENTS of this folder to the root of your GitHub repository, preserving .github/workflows/ and scripts/ directories. Do not upload this folder as a nested directory.
 
-This upgrade includes:
-1. Energy-capacity calculator for two weapons per mech, five slots.
-2. Named weapon variants and auto-fill ONLY when the JSON contains verifiedEnergy: true and a numeric energy value.
-3. Tactical weapon-family recommendations by role and playstyle.
-4. Five-mech hangar coverage report, duplicate checks, role/range diversity, and transparent heuristic planning score.
-5. Browser-local save and migration from previous planner state.
+Existing pages included: hangar-showdown.html, equipment-database.html, best-mech-builds.html, weapon-guide.html, and their JS/CSS/JSON dependencies. If you have edited these live files since the previous packages, back them up and compare before overwriting. Do not replace newer JSON data with older copies.
 
-IMPORTANT DATA LIMITATIONS:
-The inherited database has no VERIFIED mech energy capacities and no VERIFIED weapon energy variants.
-Therefore the calculator is operational but requires the player to input exact in-game energy figures.
-No official live-game stats or complete individual weapon variant roster are claimed. The 48 mechs and 58 families are an unverified partial catalog. Recommendation scores are heuristics, not measured performance.
+New pages:
+- /maintenance.html: local-only JSON editor for mechs.json, weapons.json, promo-codes.json. Validate and download; manually commit updates in GitHub. NOT password protected. Does not accept credentials.
+- /promo-codes.html: public promo code listing sourced from promo-codes.json. All codes are labeled as reported/unverified, with account eligibility.
 
-Test: open /hangar-showdown.html, choose Voidghost, enter in-game capacity, select two weapon families, enter their variant names and energy, and verify over-capacity warnings. Use Recommend weapon families to see tactical suggestions.
+Automatic check:
+- .github/workflows/promo-code-check.yml runs daily and can be run manually from GitHub Actions.
+- scripts/check_promo_codes.py checks a public Plarium forum moderator thread for candidate codes.
+- New candidate codes are put into promo-candidates.json via a pull request for human review. They are NOT automatically published as active because no reliable public redemption-validation API exists. This workflow cannot monitor in-game news, Discord, social networks or videos automatically.
+- In GitHub Settings > Actions > General, set Workflow permissions to Read and write permissions and allow GitHub Actions to create and approve pull requests if your repo permits it. Some repositories disallow this; review GitHub Actions errors.
+- Scheduled Actions can be delayed/disabled for inactivity. No guarantee of daily delivery.
+- Review candidates in GitHub PR and add confirmed codes manually to promo-codes.json. Commit to main to publish.
+
+Sources:
+https://mecharena-support.plarium.com/hc/en-us/articles/15047121074460-How-to-get-a-Promo-Code
+https://forum.plarium.com/mech-arena/702_game-discussion/1759149_active-promo-codes---10th-june--2026/
+https://portal.plarium.com/en/redeem/mech-arena/
+
+Do not advertise unverified codes as active or guaranteed. Avoid putting GitHub tokens, Plarium credentials, or private data in the public repository.
