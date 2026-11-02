@@ -1,7 +1,7 @@
 {
   "updated": "2026-11-02",
-  "source": "https://mecharena.wiki.gg/wiki/Mechs",
-  "coverage": "Community roster plus official Citadel; verify changes in-game",
+  "source": "https://mecharena-support.plarium.com/hc/en-us/articles/12538459799196-General-info-about-Mechs; https://play.google.com/store/apps/details?id=com.plarium.mechlegion",
+  "coverage": "Expanded community roster with Voidghost confirmed from official game listing; energy stats require in-game verification",
   "mechs": [
     {
       "name": "Paragon",
@@ -270,6 +270,14 @@
     {
       "name": "Salvor",
       "role": "Support",
+      "energyCapacity": null,
+      "verifiedEnergy": false
+    },
+    {
+      "name": "Voidghost",
+      "role": "Scout",
+      "rarity": "Legendary",
+      "ability": "Glitched Out",
       "energyCapacity": null,
       "verifiedEnergy": false
     }
