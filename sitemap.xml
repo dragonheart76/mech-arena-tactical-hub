@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://mech-arena-tactical-hub.pages.dev/</loc>
-  </url>
-  <url>
-    <loc>https://mech-arena-tactical-hub.pages.dev/hangar-showdown.html</loc>
-  </url>
-  <url>
-    <loc>https://mech-arena-tactical-hub.pages.dev/best-mech-builds.html</loc>
-  </url>
-  <url>
-    <loc>https://mech-arena-tactical-hub.pages.dev/weapon-guide.html</loc>
-  </url>
-  <url>
-    <loc>https://mech-arena-tactical-hub.pages.dev/map-guides.html</loc>
-  </url>
+  <url><loc>https://mech-arena-tactical-hub.pages.dev/</loc></url>
+  <url><loc>https://mech-arena-tactical-hub.pages.dev/hangar-showdown.html</loc></url>
+  <url><loc>https://mech-arena-tactical-hub.pages.dev/best-mech-builds.html</loc></url>
+  <url><loc>https://mech-arena-tactical-hub.pages.dev/weapon-guide.html</loc></url>
+  <url><loc>https://mech-arena-tactical-hub.pages.dev/map-guides.html</loc></url>
+  <url><loc>https://mech-arena-tactical-hub.pages.dev/equipment-database.html</loc></url>
+  <url><loc>https://mech-arena-tactical-hub.pages.dev/promo-codes.html</loc></url>
+  <url><loc>https://mech-arena-tactical-hub.pages.dev/weapon-pairing-guide.html</loc></url>
+  <url><loc>https://mech-arena-tactical-hub.pages.dev/voidghost-build-guide.html</loc></url>
+  <url><loc>https://mech-arena-tactical-hub.pages.dev/beginner-f2p-guide.html</loc></url>
+  <url><loc>https://mech-arena-tactical-hub.pages.dev/hangar-showdown-strategy.html</loc></url>
+  <url><loc>https://mech-arena-tactical-hub.pages.dev/about.html</loc></url>
+  <url><loc>https://mech-arena-tactical-hub.pages.dev/contact.html</loc></url>
+  <url><loc>https://mech-arena-tactical-hub.pages.dev/privacy.html</loc></url>
 </urlset>
